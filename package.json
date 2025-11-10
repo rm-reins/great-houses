@@ -1,0 +1,83 @@
+{
+  "name": "great-houses",
+  "icon": "assets/logo.png",
+  "displayName": "Great Houses",
+  "description": "A collection of themes inspired by great houses of code.",
+  "version": "1.0.0",
+  "keywords": [
+    "great houses",
+    "dark",
+    "theme"
+  ],
+  "files": [],
+  "scripts": {
+    "dev": "node src/watcher --watch",
+    "build": "node src/watcher"
+  },
+  "author": "rm-reins",
+  "publisher": "rm-reins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rm-reins/great-houses/issues"
+  },
+  "homepage": "https://github.com/rm-reins/great-houses#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rm-reins/great-houses.git"
+  },
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "House of Python",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-python.json"
+      },
+      {
+        "label": "House of Python (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-python-no-italics.json"
+      },
+      {
+        "label": "House of Gopher",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-gopher.json"
+      },
+      {
+        "label": "House of Gopher (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-gopher-no-italics.json"
+      },
+      {
+        "label": "House of Camel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-camel.json"
+      },
+      {
+        "label": "House of Camel (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-camel-no-italics.json"
+      },
+      {
+        "label": "House of Ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-ruby.json"
+      },
+      {
+        "label": "House of Ruby (No Italics)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/house-of-ruby-no-italics.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "filewatcher": "^3.0.1",
+    "prettier": "^2.2.1",
+    "sharp": "^0.28.0"
+  }
+}
