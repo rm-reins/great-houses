@@ -11,6 +11,20 @@ A collection of VS Code themes inspired by the great houses of ~~Hogw~~ code.
 
 Each theme is available in a standard and a "no-italics" version.
 
+## Preview
+
+### House of Python
+![House of Python Preview](assets/pre_python.png)
+
+### House of Gopher
+![House of Gopher Preview](assets/pre_gopher.png)
+
+### House of Camel
+![House of Camel Preview](assets/pre_camel.png)
+
+### House of Ruby
+![House of Ruby Preview](assets/pre_ruby.png)
+
 ## Installation
 
 1.  Open the **Extensions** sidebar in VS Code.
