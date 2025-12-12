@@ -77,7 +77,7 @@
       "minimap.warningHighlight": "#F0E68C",
       "minimap.background": "#0A1A14",
       "minimapGutter.addedBackground": "#50C87880",
-      "minimapGutter.modifiedBackground": "#C0C0C080",
+      "minimapGutter.modifiedBackground": "#50C87880",
       "minimapGutter.deletedBackground": "#B2222280",
 
       "editorGroup.border": "#1A472A",
@@ -136,7 +136,7 @@
       "editorOverviewRuler.selectionHighlightForeground": "#50C878",
       "editorOverviewRuler.wordHighlightForeground": "#C0C0C0",
       "editorOverviewRuler.wordHighlightStrongForeground": "#C0C0C0",
-      "editorOverviewRuler.modifiedForeground": "#C0C0C099",
+      "editorOverviewRuler.modifiedForeground": "#50C87899",
       "editorOverviewRuler.addedForeground": "#50C87899",
       "editorOverviewRuler.deletedForeground": "#B2222299",
       "editorOverviewRuler.errorForeground": "#B22222b3",
@@ -149,7 +149,7 @@
       "editorHint.foreground": "#A9A9A9b3",
 
       "editorGutter.background": "#010806",
-      "editorGutter.modifiedBackground": "#C0C0C040",
+      "editorGutter.modifiedBackground": "#50C87840",
       "editorGutter.addedBackground": "#50C87840",
       "editorGutter.deletedBackground": "#B2222240",
 
@@ -220,7 +220,7 @@
       "terminal.selectionBackground": "#2E4D3E",
 
       "gitDecoration.addedResourceForeground": "#50C878",
-      "gitDecoration.modifiedResourceForeground": "#C0C0C0",
+      "gitDecoration.modifiedResourceForeground": "#50C878",
       "gitDecoration.deletedResourceForeground": "#B22222",
       "gitDecoration.untrackedResourceForeground": "#50C878",
       "gitDecoration.ignoredResourceForeground": "#5C5C5C",

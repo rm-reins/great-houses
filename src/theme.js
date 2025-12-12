@@ -49,7 +49,7 @@ const python = {
   info: "#C0C0C0",
 
   git_added: "#50C878",
-  git_modified: "#C0C0C0",
+  git_modified: "#50C878",
   git_deleted: "#B22222",
   git_untracked: "#50C878",
   git_ignored: "#5C5C5C",
